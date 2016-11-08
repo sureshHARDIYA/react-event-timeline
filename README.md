@@ -76,6 +76,7 @@ Each event in the timeline will be represented by the `TimelineEvent` component.
 | icon      | node   | The icon to show as event lable. Can be a SVG or font icon |
 | iconColor | string | CSS color code for icon                  |
 | buttons   | node   | Action buttons to display to the right of the event content |
+| ...others |        | pass other props or event handlers to the `TimelineEvent` |
 
 ### Development
 
